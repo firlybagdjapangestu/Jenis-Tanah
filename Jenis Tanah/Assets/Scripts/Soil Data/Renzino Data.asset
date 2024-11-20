@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aebed115b10161a4d9eb34867b50df63, type: 3}
+  m_Name: Renzino Data
+  m_EditorClassIdentifier: 
+  soilImage: {fileID: 21300000, guid: b97958594a8802340a1ce44c96b2f6bf, type: 3}
+  soilName: Renzino
+  soilDescription: "Rendzina merupakan tanah padang rumput yang tipis berwarna gelap,
+    terbentuk dari \u043A\u0430\u0440\u043E\u0442 Junak, batu-batuan mergel, dan
+    gips. Pada umumnya memiliki kandungan Ca dan Mg yang tinggi dengan pii antara
+    7,5 - 8,5 dan \u0440\u0435\u043A\u0430 terhadap erosi."
+  soilSoundDescription: {fileID: 0}
+  namaTanah: Renzino
+  deskripsiTanah: "Rendzina merupakan tanah padang rumput yang tipis berwarna gelap,
+    terbentuk dari \u043A\u0430\u0440\u043E\u0442 Junak, batu-batuan mergel, dan
+    gips. Pada umumnya memiliki kandungan Ca dan Mg yang tinggi dengan pii antara
+    7,5 - 8,5 dan \u0440\u0435\u043A\u0430 terhadap erosi."
+  suaraPenjelasanTanah: {fileID: 0}
+  soilPrefabs: {fileID: 3413516161262421586, guid: b51a32254864d1e44887e9185f28c41f,
+    type: 3}

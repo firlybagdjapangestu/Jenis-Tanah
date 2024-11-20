@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aebed115b10161a4d9eb34867b50df63, type: 3}
+  m_Name: Podsolik Data
+  m_EditorClassIdentifier: 
+  soilImage: {fileID: 21300000, guid: e5a069961def6e040959076f47e9bb3f, type: 3}
+  soilName: Podsolik
+  soilDescription: Berasal dari bahan induk batuan Kvarsa di zona iklim basah dengan
+    curah hujan antara 2.500-3.000 mm/tahun. Sifatnya mudah basah dan mudah mengalami
+    pencucian oleh air hujan, sehingga kesuburannya berkurang.
+  soilSoundDescription: {fileID: 0}
+  namaTanah: Podsolik
+  deskripsiTanah: Berasal dari bahan induk batuan Kvarsa di zona iklim basah dengan
+    curah hujan antara 2.500-3.000 mm/tahun. Sifatnya mudah basah dan mudah mengalami
+    pencucian oleh air hujan, sehingga kesuburannya berkurang.
+  suaraPenjelasanTanah: {fileID: 0}
+  soilPrefabs: {fileID: 3213157755275889559, guid: 844b9a81d8f82204d817371eaadc7fd9,
+    type: 3}
